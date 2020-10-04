@@ -16,7 +16,7 @@ class Person{
 class Student extends Person{
 	public void set() {
 		age = 30;
-		name = "ȫ�浿";
+		name = "홍길동";
 		height = 175;
 		setWeight(99);
 	}
