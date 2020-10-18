@@ -24,7 +24,7 @@ public class Game {
 
 		Scanner s = new Scanner(System.in);
 		Vector<Nation> v= new Vector<Nation>();
-		v.add(new Nation("독일", "베를린 "));
+		v.add(new Nation("독일", "베를린"));
 		v.add(new Nation("그리스", "아테네"));
 		v.add(new Nation("멕시코", "멕시코시티"));
 		v.add(new Nation("영국", "런던"));
